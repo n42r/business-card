@@ -20,7 +20,7 @@ My Canva.com card can be accessed [here](https://www.canva.com/design/DAFfyUQBQY
 
 ## Color Palette
 Regarding the color palette, I think it is no secret that I was aiming for a dark mode effect. I took inspiration from github's dark mode, which is neat. But I added a touch of red to both colors and explored that space until something worked. Basically, I felt the original colors for the card would be too 'sharp,' for lack of a better word, so I explored adding some red into them and this is what I ended up in.
-![](My Dark Twisted Color Palette.png)
+![](dark-twisted-color-palette.png)
 
 
 ## Type
