@@ -1,8 +1,6 @@
 # My Dark Twisted Business Card
 
-With the help of many, I was able to design and print a semi-decent business card for me (in seven days!). And it was not a train-wreck at the end! 
-
-So, I think it's only fair that I publish the sources and the process I followed to achieve this goal to maybe inspire others to get as excited and content with the results. Maybe it's time you achieve your own dark, twisted business card fantasy? I publish it under the most permissible Creative Commons license, CC-0-1.0. Have fun!
+With the help of many, I was able to design and print a semi-decent business card (in seven days!). So I feel it's only fair that I publish the sources and the process I followed to achieve this goal to maybe inspire others to make their own dark, twisted business cards. I publish it under the most permissible Creative Commons license, CC-0-1.0. Have fun!
 
 ![nk-card-back.png](printed-card-preview.jpg)
 
