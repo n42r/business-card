@@ -7,11 +7,9 @@ With the help of many generous souls, I was able to design and print a semi-dece
 
 ## TLDR; The short way and the long way (pick one)
 
-Want to quickly make your card and do not have experience with GIMP, Photoshop, and similar tools? Or don't want the headache? I made a shortcut. You can use a copy of an **earlier draft** of my card on [canva.com](https://www.canva.com/) which is linked below. You will need to make a free account to create a copy and edit the card on the website as you please. 
+The professional way is to use a graphics editor (GIMP, photoshop, ...). However, this is not for everyone. So, I have good news! If you don't want to or are not willing to learn how to use a graphics editor software, you can use a copy of an **earlier draft** of my card hosted on *canva.com* (the one shown in the picutre above). I say earlier draft because its margins are a bit off, and I slightly changed the location of the title/subtitle text, but some might like the draft more than the final (available in the .XCF and .PSD files). 
 
-Although I did not end up using canva.com myself  (damn hipster!; also, see below), I think it's a very decent route.
-
-My Canva.com card can be accessed [here](https://www.canva.com/design/DAFfyUQBQY8/kvZ0tlFibd94JO8TkwvOfw/edit?utm_content=DAFfyUQBQY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). You need to select "File" and "Make a copy" and if you are signed in, Voilà!
+Although I did not end up using canva.com myself (damn hipster!; also, see below), I think it's a decent route. You will need to make a free account if you want to design your card on the website. Once you have that, my Canva.com card can be accessed [here](https://www.canva.com/design/DAFfyUQBQY8/kvZ0tlFibd94JO8TkwvOfw/edit?utm_content=DAFfyUQBQY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). You need to select "File > Make a copy" and Voilà!
 
 
 ## Used tools
