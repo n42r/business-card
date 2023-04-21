@@ -2,14 +2,14 @@
 
 With the help of many, I was able to design and print a semi-decent business card (in seven days!). So I feel it's only fair that I publish the sources and the process I followed to achieve this goal to maybe inspire others to make their own dark, twisted business cards. I publish it under the most permissible Creative Commons license, CC-0-1.0. Have fun!
 
-![](printed-card-example.jpg)
+![](preview.png)
 
 
 ## TLDR; The short way and the long way (pick one)
 
 Want to quickly make your card and do not have experience with GIMP, Photoshop, and similar tools? Or don't want the headache? I made a shortcut. You can use a copy of an **earlier draft** of my card on [canva.com](https://www.canva.com/) which is linked below. You will need to make a free account to create a copy and edit the card on the website as you please.
 
-My Canva.com card can be accessed [here](https://www.canva.com/design/DAFfyUQBQY8/kvZ0tlFibd94JO8TkwvOfw/edit?utm_content=DAFfyUQBQY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). You need to select "File" and "Make a copy" and if you are signed in, then Voilà!
+My Canva.com card can be accessed [here](https://www.canva.com/design/DAFfyUQBQY8/kvZ0tlFibd94JO8TkwvOfw/edit?utm_content=DAFfyUQBQY8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). You need to select "File" and "Make a copy" and if you are signed in, and Voilà!
 
 
 ## Used tools
@@ -19,13 +19,13 @@ My Canva.com card can be accessed [here](https://www.canva.com/design/DAFfyUQBQY
 - [Canva.com](https://www.canva.com/): I initially started using canva.com to design the card, and it went a long way (80% of the way). I ended up aborting this direction because I was in a hurry to print and have the card. They offer templates, an online editing tool, and a coupled printing service. In general, if you don't know or want to learn graphics editing tools like GIMP, and you don't have a local printing shop or service you already know or trust, then using canva.com as an 360 degrees solution, might be a good option. It is also possible to download your designed card in some okay formats, but to get the SVG format (for highest quality) you have to sign up. Finally, I can't vouch for their printing service because I did not try it.
 
 ## Color Palette
-Regarding the color palette, I think it is no secret that I was aiming for a dark mode effect. I took inspiration from github's dark mode, which is neat. But I added a touch of red to both colors and explored that space until something worked. Basically, I felt the original colors for the card would be too 'sharp and cold,' so I explored adding some red into them until I got a hint of what I was looking for.
+Regarding the color palette, I think it is no secret that I was aiming for a dark mode effect. I took inspiration from github's dark mode. I added a touch of red to both colors and explored that space until something worked. Basically, I felt the original colors for the card would be too 'sharp and cold,' so I explored adding some red into them until I got a hint of what I was looking for.
 ![](dark-twisted-color-palette.png)
 
 
 ## Type
 
-I have several typefaces that I fancy and [Montserrat](https://en.wikipedia.org/wiki/Montserrat_(typeface)) is one of them. Started in 2010, it is released under the SIL Open Font License, so it is freely available. It is also the type used on my personal webpage that is reachable via the QR-code scanning, although I don't think anyone would realize that.
+I have several typefaces that I fancy and [Montserrat](https://en.wikipedia.org/wiki/Montserrat_(typeface)) is one of them. Started in 2010, it is released under the SIL Open Font License, so it is freely available. It is also the type used on my personal webpage that is reachable via the QR-code scanning, although I don't think anyone realized that.
 
 
 ## Figure Workflow (SVG is your friend)
@@ -43,4 +43,4 @@ P.S.: You can make some wild QR designs if you want, just make sure that they ar
 
 There are two layer groups: *Front Card* and *Back Cadr* (typo), and each has contents that are hierarchically structured, to the best of my rookies graphic design abilities! So, it should be easy to go a head and remove the elements and add your own.
 
-I include both an XCF file (GIMP native) and a PSD file (for Photoshop heads), which I generated in GIMP using the "Export To" option.
+I include both an XCF file (GIMP native) and a PSD file (for Photoshop heads), which I generated in GIMP using the "Export To" option (not sure about the details of this conversion).
