@@ -32,7 +32,7 @@ I have several typefaces that I fancy, and [Montserrat](https://en.wikipedia.org
 
 I design the figures in draw.io, and then export them as SVG (File > Export As > SVG) and in the dialog box I select transparent background and in the "Text Settings" option I select "Embed Fonts" from the drop down menu (because I also use Montserrat in draw.io for the figures as well and want the font to display properly once its rendered by the host application). 
 
-In GIMP I drag and drop the figure into the main business card document and experiment with the desired rendering size until I find what fits. I am sure there is a more professional way to do this, but it works with me. I also used SVG as the format to download I the finished QR code from QR Planet, and then loaded it into GIMP in the same way.
+In GIMP I drag and drop the figure into the main business card document and in the renderer prompt I set the *Resolution* as 300 pixels/in and select the target width and height. I also used SVG as the format to download the finished QR code from QR Planet, and then loaded it into GIMP in the same way.
 
 ## QR codes
 Generating, using, managing, and publishing QR codes is not a straightforward as it seems. It is easy to just generate some QR code, but there are so many dimensions that need to be tweaked and modified. There is so much to say here and I am not an expert. So I will just leave you with two insightful articles that I used myself by QR Planet: [this](https://qrplanet.com/help/article/how-to-print-qr-code) and [this](https://qrplanet.com/9-tips-how-to-use-qr-codes). 
