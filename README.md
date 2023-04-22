@@ -52,7 +52,11 @@ In GIMP I drag and drop the figure into the main business card document and in t
 ## QR codes
 Generating, using, managing, and publishing QR codes is not a straightforward as it seems. It is easy to just generate some QR code, but there are so many dimensions that need to be tweaked and modified. There is so much to say here and I am not an expert. So I will just leave you with two insightful articles that I used myself by QR Planet: [this](https://qrplanet.com/help/article/how-to-print-qr-code) and [this](https://qrplanet.com/9-tips-how-to-use-qr-codes). 
 
-P.S.: You can make some wild QR designs if you want, just make sure that they are easily scannable / detectable by smart phone cameras.
+Tip 1: You can make some wild QR designs if you want, just make sure that they are easily scannable / detectable by smart phone cameras.
+
+Tip 2: Associating web URLs with QR codes is only one way to use QR codes. You can add a V-card, text, pdf, and others. Furthermore, it is possible to encode the data of interest in the actual QR code! This means that it works offline. But there is a limited information space so you can only encode a small amount of information.
+
+Tip 3: QR planet also has an option called Business Card, check it out.
 
 ## For those going the hacker way
 
