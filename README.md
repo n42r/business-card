@@ -4,7 +4,7 @@ With the help of many souls, I was able to design and print a semi-decent busine
 
 I describe **two** ways you can make your own business card, and I provide the source files I developed for my business card so you don't need to start from scratch. You are welcome to use the template as it is without having to modify the design whatsoever! 
 
-- The first way (the short way), requires almost no new software or skills and happens using an online tool (free registration required) and an online hosted version of the `dark twisted business card` (see figure below), so you can start to have results in 10-30 minutes.
+- The first way (the short way), requires almost no new software or skills and happens using an online tool (free registration required) and an online hosted version of the `dark twisted business card`, so you can start to have results in 10-30 minutes.
  
 - The second way (the hacker way), describes how to do it using graphics editors (I use GIMP which is reliable and free, some people are used to Photoshop).
 
