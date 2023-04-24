@@ -1,6 +1,6 @@
 # My Dark Twisted Business Card
 
-With the help of many souls, I was able to design and print a semi-decent business card. So I feel it's only fair that I publish the sources and the process I followed to inspire others to make their own *dark twisted business cards*. I publish it under the most permissible Creative Commons license, CC-0-1.0, so you can do practically whatever you like with it!
+With the help of many souls, I was able to design and print a semi-decent business card. So I feel it's only fair that I publish the sources and the process I followed to inspire others to make their own *dark twisted business cards*. I publish it under the most permissible Creative Commons license, CC-0-1.0, so you can do practically whatever you like with it! (If you have never used github, you can easily download a zip of the sources files by clicking [here](https://github.com/n42r/my-dark-twisted-business-card/archive/refs/heads/main.zip)).
 
 I describe **two** ways you can make your own business card, and I provide the source files I developed for my business card so you don't need to start from scratch. You are welcome to use the template as it is without having to modify the design whatsoever! 
 
